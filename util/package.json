@@ -1,0 +1,23 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Readme generator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BossyLemon0/Readme_Generator.git"
+  },
+  "author": "Omar D. Ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BossyLemon0/Readme_Generator/issues"
+  },
+  "homepage": "https://github.com/BossyLemon0/Readme_Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
