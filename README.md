@@ -2,7 +2,7 @@
 This repository sets out to create a node.js application that generates a readme through the terminal.
 This is a readme generated from this application:
 # Readme_Generator
-badge placeholder for: MIT
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
  - - - -
