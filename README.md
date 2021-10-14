@@ -27,7 +27,7 @@ The way you run this application is by going into the util file and typing node 
  - - - -
 Get the inquirer npm, fork this repo, enter the util folder, and type node index.js into the terminal.
 
-[Application in action](undefined)
+[Application in action](https://watch.screencastify.com/v/JSZ8a17EDLPr24dqlJOb)
 
 ## Contribution Guidelines
  - - - -
